@@ -6,6 +6,7 @@ Use of Dimension reduction technique (Principal Component Analysis) to decrease 
 Principal Component Analysis is the technique used to reduce the dimensions on the large datasets. The comparable measurements are shown by the variables, and the components are generated on the basis of the covariance matrix's Eigen decomposition.
 
 The project is implemented on IBM SPSS. 
+Insights and tests are explained in output.spv files. Following are the important factors used for interpreting the results.
 
 I. Data suitability for PCA
 A. Sample size plays an important role for the analysis of the PCA. The dataset which is used consists of 21 columns and 89 rows which is suitable for the analysis of the PCA. 
